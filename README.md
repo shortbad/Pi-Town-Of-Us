@@ -1,11 +1,11 @@
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+## *Note: This repository is an unofficial retexture of the continuation of Town of Us* ##
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
 
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
-Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
+Join the tour [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
 
 | **Impostor Roles**           | **Crewmate Roles**                | **Neutral Roles**               | **Modifiers**                |
 |:---------------------------:|:---------------------------------:|:-------------------------------:|:---------------------------:|
