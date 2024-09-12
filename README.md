@@ -1,4 +1,4 @@
-## *Note: This repository is an unofficial retexture of the continuation of Town of Us* ##
+## *Note: This repository is an unofficial retexture of the Town of Us R Project* ##
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
