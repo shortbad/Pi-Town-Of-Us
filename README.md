@@ -1,4 +1,4 @@
-## *Note: This repository is an unofficial retexture of the Town of Us R Project* ##
+1## *Note: This repository is an unofficial retexture of the Town of Us R Project, Therefore Crossplay between Town Of Us R is supported, tho if you find any bugs related to sprite or have a suggestion related to this project, you should join the discord servr, as the official town of us R project is in no way affiliated* ##
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
