@@ -1,11 +1,11 @@
-## *Note: This repository is an unofficial retexture of the Town of Us R Project, Therefore Crossplay between Town Of Us R is supported, tho if you find any bugs related to sprite or have a suggestion related to this project, you should join the discord servr, as the official town of us R project is in no way affiliated* ##
+## *Note: This repository is an unofficial retexture of the Town of Us R Project, Therefore Crossplay with Town Of Us R is supported, tho if you find any bugs or wish tl suggest changes, feel free to do so my discord server!* ##
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
 
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
-Join the tour [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
+Join the TOUR [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
 
 | **Impostor Roles**           | **Crewmate Roles**                | **Neutral Roles**                | **Modifiers**                |
 |:----------------------------:|:---------------------------------:|:--------------------------------:|:----------------------------:|
