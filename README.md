@@ -1,6 +1,6 @@
-## *Note: This repository is an unofficial retexture of the Town of Us R Project, Therefore Crossplay with Town Of Us R is supported, tho if you find any bugs or wish tl suggest changes, feel free to do so my discord server!* ##
+## *Note: This repository is an unofficial retexture of the Town of Us R Project, Therefore Crossplay with Town Of Us R is supported, tho if you find any bugs or wish to contribute or suggest changes, feel free to do so in my discord server!* ##
 
-![LOGO](./Images/TOU-logo.png)
+![LOGO](./Images/TownOfUsBanner.png)
 ![Roles](./Images/Roles.png)
 
 An Among Us mod that adds a bunch of roles, modifiers and game settings
